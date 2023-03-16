@@ -375,6 +375,7 @@ rocksolid
 rss
 scss
 send
+soldout
 sql
 start
 status
